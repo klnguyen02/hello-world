@@ -9,3 +9,13 @@ I want to learn more about it
 Right now, I am trying to learn the basic styling of text
 ## I <sub>like typing</sub> this so far 
 ~~I like this~~
+
+#include <iosstream>
+using namespace
+
+int main()
+{
+  cout<< "Hello World!" << endl;
+
+  return 0;
+}
